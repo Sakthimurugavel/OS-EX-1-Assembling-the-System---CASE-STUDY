@@ -54,7 +54,7 @@ Push the power button to start the computer.
 
 
 ### RESULT:
-Hence ,the system is successfully set up.
+Hence,the system is successfully set up.
 
 
 
@@ -67,5 +67,3 @@ Hence ,the system is successfully set up.
 
 
 
-
-RESULT:
